@@ -32,7 +32,11 @@
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Frontend:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=angular,react,bootstrap,html,css,sass,js,ts,figma"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=angular,react,bootstrap,html,css,sass,js,ts"/></td>
+    </tr>
+  <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">UI/UX:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=figma"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Database:</td>
