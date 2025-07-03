@@ -28,11 +28,11 @@
 <table>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Backend:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=php,firebase,java,python,nodejs,flask,nginx"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=php,firebase,python,flask,nginx"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Frontend:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=angular,react,bootstrap,html,css,sass,js,ts"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=angular,react,nextjs,bootstrap,html,css,js,ts"/></td>
     </tr>
   <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">UI/UX:</td>
@@ -52,7 +52,7 @@
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Ides:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=vscode,visualstudio,sublime"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=vscode,visualstudio"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Other Tools:</td>
